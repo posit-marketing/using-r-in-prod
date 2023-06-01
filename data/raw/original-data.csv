@@ -1,0 +1,9 @@
+material,diameter,dimples,thickness,driver,iron
+Liquid,118,392,0.03,247.5,234.3
+Liquid,118,422,0.06,224.4,214.5
+Liquid,156,392,0.03,59.4,49.5
+Liquid,156,422,0.06,75.9,72.6
+Tungsten,118,392,0.06,155.1,148.5
+Tungsten,118,422,0.03,39.6,29.7
+Tungsten,156,392,0.06,92.4,82.5
+Tungsten,156,422,0.03,21.9,18.6
