@@ -6,6 +6,7 @@ set.seed(123)
 library(dplyr)
 library(GGally)
 library(MASS)
+library(tibble)
 
 set.seed(5)
 # create the variance covariance matrix
